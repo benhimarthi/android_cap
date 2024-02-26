@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">ioncab</string>
+    <string name="title_activity_main">ioncab</string>
+    <string name="package_name">ma.sosemergency.secours</string>
+    <string name="custom_url_scheme">ma.sosemergency.secours</string>
+</resources>
